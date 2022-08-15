@@ -2,7 +2,7 @@
 🟧Interests 🗂 I like to create content and consume it too! Reading, games, art, hell, even researching! I also speak multiple languages.                    
 🟨Studying 📚 I’m currently learning a lot of things! I am going to take a course in either game dev or software dev soon.             
 🟩Work 💾 I am making a portfolio site for me and someone else, I also have plans to make an image analysis tool!                   
-🟦Languages 🌐 🇬🇧🇮🇪🇪🇸                    
+🟦Languages 🌐 🇬🇧 🇮🇪 🇪🇸                    
 🟪Content 🎥 My YouTube channels:                    
    🕹 https://www.youtube.com/c/JakeDaSpud (Gaming/Main)                      
    🎸 https://www.youtube.com/channel/UCDp3saAbnoUOpmQgHzvdKhw (Music/Art)                      
