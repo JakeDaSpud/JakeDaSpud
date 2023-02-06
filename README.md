@@ -10,26 +10,17 @@ I’m currently learning a lot of things! I'm in a 4 year long Game Development 
 ## 🟩Work 💾
 I am making a portfolio site for myself, as well as other websites such as sharing my game dev journey and a companion blog to my book channel!
 ### Skills:
-#### Programming Languages:
-- CSS
-- HTML
-- Java
-- JavaScript
-- Markdown
-- MS MakeCode (Micro:Bit)
-- Python
-- SQL
-
-#### Apps:
-- Blender
-- FireAlpaca
-- GitHub
-- MS Excel / Google Sheets (Preferred)
-- MS Word / Google Docs (Preferred)
-- Movavi Video Editor
-- NetBeans
-- Replit
-- Thonny
+| Languages | Apps |
+| --------- | --------- |
+| - CSS | - Blender |
+| - HTML | - FireAlpaca |
+| - Java | - GitHub |
+| - JavaScript | - MS Excel / Google Sheets (Preferred) |
+| - Markdown | - MS Word / Google Docs (Preferred) |
+| - MS MakeCode (Micro:bit) | - Movavi Video Editor |
+| - MySQL | - NetBeans |
+| - Python | - Replit |
+| | - Thonny |
 
 ## 🟦Languages 🌐
 - English 🇬🇧
