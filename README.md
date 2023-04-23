@@ -32,6 +32,7 @@ My YouTube channels:
 - 🕹 [JakeDaSpud](https://www.youtube.com/c/JakeDaSpud) (Gaming)
 - 🎸 [kaffe](https://www.youtube.com/channel/UCDp3saAbnoUOpmQgHzvdKhw) (Music/Art)
 - 👓 [jook nook](https://www.youtube.com/channel/UCH7QJbiY1Gq4aXuSy5saTRw) (Books)
+- 💻 [jake o'reilly](https://www.youtube.com/@jakeoreilly/featured) (GameDev / Programming)
 
 My Websites:
 - 🪵 [jlog](https://jlog.jakedaspud.repl.co/) (Personal/YouTube Blog)
