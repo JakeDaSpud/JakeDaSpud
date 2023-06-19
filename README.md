@@ -1,14 +1,14 @@
 ## 🟥(oﾟvﾟ)ノ Yo, I’m Jake O'Reilly 🥐
-I'm an Irish college student studying Game Development and improving my own programming skills too. I make websites, games, programs and try to keep them updated to my current level of skill.
+I'm an Irish college student studying Game Development. I make websites, games and programs.
 
 ## 🟧Interests 🗂
-I like to create content and consume it too! Reading, games, art, hell, even researching! I also learn and speak multiple languages. I have an affinity towards researching how disabilities affect video game experiences.
+I like to create content and consume it too! Reading, games, art, researching! I also learn and speak multiple languages. I like researching accessibility in video game and software experiences.
 
 ## 🟨Study 📚
-I’m currently learning a lot of things! I'm in a 4 year long Game Development course (BSc, NFQ 8), which goes over game theory, blender and animation, programming in Java, HTML/CSS/JS and C++, maths for programming, SQL for databases and workplace practices.
+I’m currently learning a lot of things! I'm in a 4 year long Game Development course (BSc, NFQ 8), which goes over Game Theory, Blender/Animation, Maths/Games Physics and programming languages.
 
 ## 🟩Work 💾
-I am making a portfolio site for myself, as well as other websites such as sharing my game dev journey and a companion blog to my book channel!
+I am making a portfolio site for myself, as well as other websites such as sharing my game dev journey!
 ### Skills:
 | Languages | Apps |
 | --------- | --------- |
@@ -35,7 +35,7 @@ My YouTube channels:
 - 💻 [jake o'reilly](https://www.youtube.com/@jakeoreilly/featured) (GameDev / Programming)
 
 My Websites:
-- 🪵 [jlog](https://jlog.jakedaspud.repl.co/) (Personal/YouTube Blog)
+- 🪵 [jlog](https://jlog.jakedaspud.repl.co/) (Personal/YouTube Blog, Ended)
 - 📖 [The Game Tome](https://the-game-tome.jakedaspud.repl.co/) (Game Development Blog and Resources)
    
 <!---
