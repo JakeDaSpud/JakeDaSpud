@@ -1,15 +1,16 @@
-## 🟥(oﾟvﾟ)ノ Yo, I’m Jake O'Reilly 🥐
+🟥(oﾟvﾟ)ノ **Yo, I’m Jake O'Reilly** 🥐\
 I'm an Irish college student studying Game Development. I make websites, games and programs.
 
-## 🟧Interests 🗂
+🟧**Interests** 🗂\
 I like to create content and consume it too! Reading, games, art, researching! I also learn and speak multiple languages. I like researching accessibility in video game and software experiences.
 
-## 🟨Study 📚
+🟨**Study** 📚\
 I’m currently learning a lot of things! I'm in a 4 year long Game Development course (BSc, NFQ 8), which goes over Game Theory, Blender/Animation, Maths/Games Physics and programming languages.
 
-## 🟩Work 💾
+🟩**Work** 💾\
 I am making a portfolio site for myself, as well as other websites such as sharing my game dev journey!
-### Skills:
+
+**Skills:**
 | Languages | Apps |
 | --------- | --------- |
 | - CSS | - Blender |
@@ -22,17 +23,17 @@ I am making a portfolio site for myself, as well as other websites such as shari
 | - Python | - Replit |
 | | - Thonny |
 
-## 🟦Languages 🌐
+🟦**Languages** 🌐
 - English 🇬🇧
 - Gaeilge 🇮🇪
 - Español 🇪🇸
 
-## 🟪Content 🎥
+🟪**Content** 🎥
 My YouTube channels:
 - 🕹 [JakeDaSpud](https://www.youtube.com/c/JakeDaSpud) (Gaming)
 - 🎸 [kaffe](https://www.youtube.com/channel/UCDp3saAbnoUOpmQgHzvdKhw) (Music/Art)
 - 👓 [jook nook](https://www.youtube.com/channel/UCH7QJbiY1Gq4aXuSy5saTRw) (Books)
-- 💻 [jake o'reilly](https://www.youtube.com/@jakeoreilly/featured) (GameDev / Programming)
+- 💻 [jake o'reilly](https://www.youtube.com/@jakeoreilly/featured) (Game Dev/Coding)
 
 My Websites:
 - 🪵 [jlog](https://jlog.jakedaspud.repl.co/) (Personal/YouTube Blog, Ended)
