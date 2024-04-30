@@ -10,7 +10,7 @@ I have a wide range of hobbies: studying accessibility, languages, games. I am a
 I’m always learning lots of things! I'm in a 4 year long Game Development course (BSc, NFQ 8) which has been much more compsci-based than I'd thought... it's still interesting! Just not very game-based...
 
 ## Work 💾
-I make websites, videos, and blogs about my interests and games in Godot and Unity!
+I make websites, videos, and blogs about my interests, and games in Godot and Unity!
 
 ## Skills
 | Languages | Apps |
