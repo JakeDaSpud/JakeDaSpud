@@ -15,4 +15,4 @@ languages: Java, C#, SQL, SQLite, C, MS MakeCode, MIT Scratch, PHP
 
 ## yummy stats (i love numbers)
 [![jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakedaspud&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-![jake's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakedaspud&size_weight=0.2&count_weight=0.8&hide=shaderlab,hlsl,cmake,makefile,css&layout=compact)
+![jake's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakedaspud&size_weight=0.2&count_weight=0.8&hide=shaderlab,hlsl,cmake,makefile,css&layout=compact&theme=nightowl)
