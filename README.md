@@ -1,6 +1,6 @@
 <img src="https://github.com/JakeDaSpud/JakeDaSpud/assets/78006039/bde38fdb-a21e-42b2-afb7-077a7ac16879" width="1200px" alt="Header Banner Animation that says Jake O'Reilly; A purple space background with the 8 planets scrolling from left to right; A witch and black cat on a broom flies past and into the background." title="Header Banner Animation that says Jake O'Reilly; A purple space background with the 8 planets scrolling from left to right; A witch and black cat on a broom flies past and into the background.">
 
-## (oﾟvﾟ)ノ yo, i’m jake o'reilly 🥐
+## (oﾟvﾟ)ノ ![views](https://visitor-badge.laobi.icu/badge?page_id=jakedaspud.visitor-badge&title=Views&left_color=%23A869D4&right_color=%2342006D) yo, i’m jake o'reilly 🥐
 i'm an irish gamedev / programmer interested in every facet of programming and art!
 <br>languages 🌐: english 🇬🇧, español 🇪🇸, gaeilge 🇮🇪
 <br>interests 🛹: art, accessibility, languages, guitar / music
