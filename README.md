@@ -7,11 +7,11 @@ i'm an irish gamedev / programmer interested in every facet of programming and a
 
 ## daily drivers
 languages: C++, GDScript, Python, JavaScript/HTML/CSS
-tools: Godot, Unity, DaVinci Resolve, VSC, Google Docs / Sheets, Notion, Obsidian, FireAlpaca, GitHub, Blender
+<br>tools: Godot, Unity, DaVinci Resolve, VSC, Google Docs / Sheets, Notion, Obsidian, FireAlpaca, GitHub, Blender
 
 ## everything else i know
 languages: Java, C#, SQL, SQLite, C, MS MakeCode, MIT Scratch, PHP
-tools: JetBrains IDEs, NetBeans, Thonny, GIMP, Maya, MS Word / Excel, Movavi Video Editor, WireShark
+<br>tools: JetBrains IDEs, NetBeans, Thonny, GIMP, Maya, MS Word / Excel, Movavi Video Editor, WireShark
 
 ## yummy stats (i love numbers)
 [![jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakedaspud&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
