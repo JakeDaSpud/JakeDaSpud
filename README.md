@@ -2,7 +2,7 @@
 
 ## (oﾟvﾟ)ノ ![profile-view-counter](https://visitor-badge.laobi.icu/badge?page_id=jakedaspud.visitor-badge&title=Views&left_color=%23A869D4&right_color=%2342006D) yo, i’m jake o'reilly 🥐
 i'm an irish gamedev / programmer interested in every facet of programming and art!
-<br>**🌐languages:** english 🇬🇧, español 🇪🇸, gaeilge 🇮🇪
+<br>**🌐languages:** english 🇬🇧, español 🇪🇸, deutsch 🇩🇪, gaeilge 🇮🇪
 <br>**🛹interests:** art, accessibility, languages, guitar / music
 
 ## daily drivers
