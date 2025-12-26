@@ -1,0 +1,124 @@
+:root {
+	/* All "--nostalgos-" colours are from this (https://lospec.com/palette-list/nostalgos-12) palette*/
+	--nostalgos-white: #dad4c9;
+	--nostalgos-black: #272a32;
+	
+	--nostalgos-red: #dc6250;
+	--nostalgos-red-dark: #deada5;
+	
+	--nostalgos-yellow: #ffd183;
+	--nostalgos-yellow-dark: #eeb24a;
+	
+	--nostalgos-green: #55927f;
+	--nostalgos-green-dark: #21525a;
+	
+	--nostalgos-blue: #5a8bde;
+	--nostalgos-blue-dark: #2152a5;
+	
+	--nostalgos-purple: #b89ce9;
+	--nostalgos-purple-dark: #844790;
+}
+
+body {
+	background-color: var(--nostalgos-black);
+	color: var(--nostalgos-white);
+	font-size: x-large;
+}
+
+header {
+	margin: auto;
+}
+
+h1 h2 h3 {
+	text-align: center;
+	width: auto;
+}
+
+img {
+	border-style: solid;
+	border-width: 4px;
+	border-radius: 5px;
+	border-color: magenta;
+}
+
+a {
+	color: var(--nostalgos-green);
+	font-weight: bold;
+}
+
+a:hover {
+	color: var(--nostalgos-black);
+	background-color: var(--nostalgos-white);
+	text-decoration: none;
+}
+
+.justified-text {
+	text-align: justify;
+}
+
+.background-box {
+	padding: 16px;
+	
+	border-style: solid;
+	border-width: 4px;
+	border-color: magenta;
+	
+	border-top-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+	
+	border-top-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.background-box hr {
+	padding: 0px;
+	opacity: 60%;
+}
+
+.border-nos-white {
+	border-color: var(--nostalgos-white);
+}
+
+.border-nos-black {
+	border-color: var(--nostalgos-black);
+}
+
+.border-nos-red {
+	border-color: var(--nostalgos-red);
+}
+
+.border-nos-red-dark {
+	border-color: var(--nostalgos-red-dark);
+}
+
+.border-nos-yellow {
+	border-color: var(--nostalgos-yellow);
+}
+
+.border-nos-yellow-dark {
+	border-color: var(--nostalgos-yellow-dark);
+}
+
+.border-nos-green {
+	border-color: var(--nostalgos-green);
+}
+
+.border-nos-green-dark {
+	border-color: var(--nostalgos-green-dark);
+}
+
+.border-nos-blue {
+	border-color: var(--nostalgos-blue);
+}
+
+.border-nos-blue-dark {
+	border-color: var(--nostalgos-blue-dark);
+}
+
+.border-nos-purple {
+	border-color: var(--nostalgos-purple);
+}
+
+.border-nos-purple-dark {
+	border-color: var(--nostalgos-purple-dark);
+}
