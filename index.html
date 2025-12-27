@@ -12,7 +12,7 @@
     <div class="container p-3">
 		
 		<!-- Introduction -->
-        <div class="row">
+        <div id="introduction" class="row">
             <header class="col">
                 <h1 class="display-1">jake o'reilly</h1>
 				<div class="background-box border-nos-red">
@@ -24,28 +24,44 @@
             </header>
 		</div>
 		
-		<!-- Projects -->
 		<div class="row">
+			<div class="col">
+				<h2 class="display-2">index</h2>
+				<div class="text-center background-box border-nos-white">
+					<nav>
+						<a href="#introduction" class="background-box border-nos-red nos-white">introduction</a>
+						<a href="#projects" class="background-box border-nos-yellow nos-white">projects</a>
+						<a href="#contact" class="background-box border-nos-blue nos-white">contact</a>
+						<a href="#hobbies" class="background-box border-nos-purple nos-white">hobbies</a>
+					</nav>
+				</div>
+			</div>
+		</div>
+		
+		<!-- Projects -->
+		<div id="projects" class="row">
 			<div class="col">
 				<h2 class="display-2">projects</h2>
 				
 				<div class="background-box border-nos-yellow">
 					<div class="row">
-						<div class="col-12 col-md-3">
+						<div class="col-12 col-xl-3">
 							<!-- Title -->
 							<h3>Starshot Idle (Solo)</h3>
 							<!-- Image -->
-							<img
-								src=""
-								class="img-fluid border-nos-yellow"
-								alt=""
-							>
+							<a href="https://jakeoreilly.itch.io/starshot-idle" target="_blank">
+								<img
+									src=""
+									class="img-fluid border-nos-yellow"
+									alt=""
+								>
+							</a>
 						</div>
 						
 						<!-- Description -->
-						<p class="col-12 col-md justified-text">Godot idle game that always sits on your desktop. Lots of UI and User-Experience experimentation.</p>
+						<p class="col-12 col-xl justified-text">Godot idle game that always sits on your desktop. Lots of UI and User-Experience experimentation.</p>
 						
-						<div class="col-12 col-md-1 align-self-center">
+						<div class="col-12 col-xl-1 align-self-center">
 							<!-- itch.io Link-->
 							<a href="https://jakeoreilly.itch.io/starshot-idle">itch.io</a>
 						</div>
@@ -54,21 +70,23 @@
 					<hr class="background-box border-nos-yellow">
 					
 					<div class="row">
-						<div class="col-12 col-md-3">
+						<div class="col-12 col-xl-3">
 							<!-- Title -->
 							<h3>is it real? (Team)</h3>
 							<!-- Image -->
-							<img
-								src="./assets/is_it_real_Screenshot.png"
-								class="img-fluid border-nos-yellow"
-								alt="Screenshot of is it real? The player is walking around a kitchen with a fridge, table and chairs, pet food bowl and water bowl, plant stand, kettle, stove, sink, window, and drying rack. The UI has a day count and success/fail count in the top left, it says Day 3: Pass Fail Pass. The bottom right has a task list that looks like a sticky note with the texts: 'Tidy Bookshelf in Living Room', and 'Brew Tea in the Kitchen'. The bottom left has a Journal with a J on it. Above the player is a large red E to show the player that they can interact with the sink, which is highlighted blue. The window and table with chairs are both highlighted red which shows that the player has selected them as being suspected Anomalies."
-							>
+							<a href="https://jakeoreilly.itch.io/is-it-real" target="_blank">
+								<img
+									src="./assets/is_it_real_Screenshot.png"
+									class="img-fluid border-nos-yellow"
+									alt="Screenshot of is it real? The player is walking around a kitchen with a fridge, table and chairs, pet food bowl and water bowl, plant stand, kettle, stove, sink, window, and drying rack. The UI has a day count and success/fail count in the top left, it says Day 3: Pass Fail Pass. The bottom right has a task list that looks like a sticky note with the texts: 'Tidy Bookshelf in Living Room', and 'Brew Tea in the Kitchen'. The bottom left has a Journal with a J on it. Above the player is a large red E to show the player that they can interact with the sink, which is highlighted blue. The window and table with chairs are both highlighted red which shows that the player has selected them as being suspected Anomalies."
+								>
+							</a>
 						</div>
 						
 						<!-- Description -->
-						<p class="col-12 col-md justified-text">Unity anomaly (spot-the-difference) horror game. Made during my Trier, Germany Erasmus semester in a team of 4, I did the music and programming. Has systems for managing when events can happen, which can overwrite others. Anomalies can be enemies or change other objects. Custom animations for player interactables. The main mechanic is the Highlight mode and checking if the player has selected the right items.</p>
+						<p class="col-12 col-xl justified-text">Unity anomaly (spot-the-difference) horror game. Made during my Trier, Germany Erasmus semester in a team of 4, I did the music and programming. Has systems for managing when events can happen, which can overwrite others. Anomalies can be enemies or change other objects. Custom animations for player interactables. The main mechanic is the Highlight mode and checking if the player has selected the right items.</p>
 						
-						<div class="col-12 col-md-1 align-self-center">
+						<div class="col-12 col-xl-1 align-self-center">
 							<!-- itch.io Link-->
 							<a href="https://jakeoreilly.itch.io/is-it-real">itch.io</a>
 							<!-- GitHub Link -->
@@ -79,22 +97,24 @@
 					<hr class="background-box border-nos-yellow">
 					
 					<div class="row">
-						<div class="col-12 col-md-3">
+						<div class="col-12 col-xl-3">
 							<!-- Title -->
 							<h3>GolfBots (Solo)</h3>
 							
 							<!-- Image -->
-							<img
-								src="./assets/GolfBots_Screenshot.png"
-								class="img-fluid border-nos-yellow"
-								alt="Screenshot of GolfBots. A girl is seen aiming a blue bar at a red button. This is the trajectory of the blue robot she will send out, which will open the yellow door when it presses the button. The land is vibrant green in a purple sea."
-							>
+							<a href="https://jakeoreilly.itch.io/golfbots" target="_blank">							
+								<img
+									src="./assets/GolfBots_Screenshot.png"
+									class="img-fluid border-nos-yellow"
+									alt="Screenshot of GolfBots. A girl is seen aiming a blue bar at a red button. This is the trajectory of the blue robot she will send out, which will open the yellow door when it presses the button. The land is vibrant green in a purple sea."
+								>
+							</a>
 						</div>
 						
 						<!-- Description -->
-						<p class="col-12 col-md justified-text">Unity puzzle game about aiming robots. Shows off the unique control mechanics, checkpoint systems, 2 unique robot mechanics, 7 puzzle designs, level design, and level decoration. I also modeled the 2 robots in Blender.</p>
+						<p class="col-12 col-xl justified-text">Unity puzzle game about aiming robots. Shows off the unique control mechanics, checkpoint systems, 2 unique robot mechanics, 7 puzzle designs, level design, and level decoration. I also modeled the 2 robots in Blender.</p>
 						
-						<div class="col-12 col-md-1 align-self-center">
+						<div class="col-12 col-xl-1 align-self-center">
 							<!-- itch.io Link-->
 							<a href="https://jakeoreilly.itch.io/golfbots">itch.io</a>
 							<!-- GitHub Link -->
@@ -105,21 +125,23 @@
 					<hr class="background-box border-nos-yellow">
 					
 					<div class="row">
-						<div class="col-12 col-md-3">
+						<div class="col-12 col-xl-3">
 							<!-- Title -->
 							<h3>Balor's Chosen (Team)</h3>
 							<!-- Image -->
-							<img
-								src="./assets/Balors_Chosen_Screenshot.png"
-								class="img-fluid border-nos-yellow"
-								alt="Screenshot of Balor's Chosen. A Deer-skull headed person with two scythes is running around an old Irish camp, killing dark grey and silver armour-cladded soldiers. There's a minimap and enemy count in the top right, and a health and visibility bar in the top left."
-							>
+							<a href="https://jakeoreilly.itch.io/balors-chosen" target="_blank">
+								<img
+									src="./assets/Balors_Chosen_Screenshot.png"
+									class="img-fluid border-nos-yellow"
+									alt="Screenshot of Balor's Chosen. A Deer-skull headed person with two scythes is running around an old Irish camp, killing dark grey and silver armour-cladded soldiers. There's a minimap and enemy count in the top right, and a health and visibility bar in the top left."
+								>
+							</a>
 						</div>
 						
 						<!-- Description -->
-						<p class="col-12 col-md justified-text">Unity stealth action game. I programmed the player movement, health component system, designed the itch.io page, and did all the graphic design for the project.</p>
+						<p class="col-12 col-xl justified-text">Unity stealth action game. I programmed the player movement, health component system, designed the itch.io page, and did all the graphic design for the project.</p>
 						
-						<div class="col-12 col-md-1 align-self-center">
+						<div class="col-12 col-xl-1 align-self-center">
 							<!-- itch.io Link-->
 							<a href="https://jakeoreilly.itch.io/balors-chosen">itch.io</a>
 						</div>
@@ -129,7 +151,7 @@
 		</div>
 		
 		<!-- Contact -->
-        <div class="row">
+        <div id="contact" class="row">
             <div class="col">
 				<h2 class="display-2">contact</h2>
 				<div class="background-box border-nos-blue">
@@ -138,9 +160,25 @@
 			</div>
 		</div>
 		
+		<!-- Hobbies -->
+        <div id="hobbies" class="row">
+            <div class="col">
+				<h2 class="display-2">hobbies</h2>
+				<div class="background-box border-nos-purple justified-text">
+					<p>I've always loved learning things, and that's one of the reasons I love game development. Games as a medium allow me to learn anything I want to, and still be relevant because I can put them into a project.</p>
+					<p>Since 2020 I've played guitar and have quite a few by now, I used to take piano lessons but I never got into theory, although I still love sound technology and music.</p>
+					<p>I love learning languages, I am native in English, I can barely speak Irish (but I want to re-learn it and study the culture more), I've taken Spanish for 8 years while casually speaking it, and I learned German when I lived there for 6 months, and have loved learning it since.</p>
+					<p>I didn't try programming until I went to college, but I had always assumed I'd like it. I tried learning Python from a magazine before college, but it was explained terribly and I didn't even know what <code>for i in range(5)</code> was doing: where did <code>i</code> come from? WHAT IS <code>i</code>?? I understood everything from my first language's module: Java, a statically typed language (something I look for in all my languages now!).</p>
+					<p>On the note of programming, I do like dabbling in lower-levels, 6502 Assembly up to C are interesting when looking at optimisation and learning how CPUs / Computers work, I also took a liking to Cryptography this way. Abstracting to human-readable code isn't that different from decrypting messages!</p>
+					<p>My gaming taste has changed quite a bit over my life. I started as a PS3 trickshotter during my CoD:AW and BO3 days, but now I casually play Valorant with friends. I love RPGs like Fallout 4, Persona, Pokémon, Skyrim, Final Fantasy, but I seem to love buying games more than playing them... my backlog is ever-expanding! Terraria has always been in my life, from playing with my sister on the PS3 to this day, the rich building systems and items are what keep me playing!</p>
+				</div>
+			</div>
+		</div>
+		
 		<!-- Footer -->
         <div class="row">
             <footer class="col text-center">
+				<a href="#introduction">beam me up!</a>
 				<p>( jake o'reilly | 2025 )</p>
 			</footer>
         </div>

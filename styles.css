@@ -1,7 +1,10 @@
 :root {
 	/* All "--nostalgos-" colours are from this (https://lospec.com/palette-list/nostalgos-12) palette*/
 	--nostalgos-white: #dad4c9;
+	--nostalgos-white-trans: rgba(218, 212, 201, 0.15);
+	
 	--nostalgos-black: #272a32;
+	--nostalgos-black-trans: rgba(39, 42, 50, 0.15);
 	
 	--nostalgos-red: #dc6250;
 	--nostalgos-red-dark: #deada5;
@@ -27,11 +30,6 @@ body {
 
 header {
 	margin: auto;
-}
-
-h1 h2 h3 {
-	text-align: center;
-	width: auto;
 }
 
 img {
@@ -75,6 +73,49 @@ a:hover {
 	opacity: 60%;
 }
 
+.background-box a {
+	padding: 8px;
+}
+
+/* Change Text Colour */
+.nos-white {
+	color: var(--nostalgos-white);
+}
+
+.nos-black {
+	color: var(--nostalgos-black);
+}
+
+.nos-red {
+	color: var(--nostalgos-red);
+}
+
+.nos-yellow {
+	color: var(--nostalgos-yellow);
+}
+
+.nos-green {
+	color: var(--nostalgos-green);
+}
+
+.nos-blue {
+	color: var(--nostalgos-blue);
+}
+
+.nos-purple {
+	color: var(--nostalgos-purple);
+}
+
+/* Change Background Colour (Not 100% Opacity) */
+.bg-nos-white {
+	background-color: var(--nostalgos-white-trans);
+}
+
+.bg-nos-black {
+	background-color: var(--nostalgos-black-trans);
+}
+
+/* Change Border Colour */
 .border-nos-white {
 	border-color: var(--nostalgos-white);
 }
