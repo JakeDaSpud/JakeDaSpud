@@ -73,7 +73,7 @@ a:hover {
 	opacity: 60%;
 }
 
-.background-box a {
+.background-box .nav-button {
 	padding: 8px;
 }
 
