@@ -44,6 +44,14 @@ a {
 	font-weight: bold;
 }
 
+.transparent_table_bg thead tr th, .transparent_table_bg tbody tr td {
+	--bs-table-bg: transparent;
+	
+	background-color: var(--nostalgos-black);
+	color: var(--nostalgos-white);
+	font-size: x-large;
+}
+
 a:hover {
 	color: var(--nostalgos-black);
 	background-color: var(--nostalgos-white);
