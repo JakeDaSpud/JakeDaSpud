@@ -39,6 +39,12 @@ img {
 	border-color: magenta;
 }
 
+ul {
+	display: inline;
+	list-style-type: disc;
+	margin: 0px 16px;
+}
+
 a {
 	color: var(--nostalgos-green);
 	font-weight: bold;
